@@ -1,7 +1,7 @@
 # Desafío de programación: C++
 Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: C++]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://user-images.githubusercontent.com/71371373/229777705-366fad5f-fcf3-412c-9609-dcb8fa8b2b93.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
